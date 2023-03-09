@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "987184857149",
+    "project_id": "news-read-project",
+    "storage_bucket": "news-read-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987184857149:android:5b0a9e9189b858af63aa54",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987184857149-cdq9j36c98ddrc6hq1hk1i1a6jl0p3mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riverpod_pro",
+            "certificate_hash": "a7ab823af1e987252441cc93c17e1130f6692c2b"
+          }
+        },
+        {
+          "client_id": "987184857149-498g87053v58th76sln5pe258rbobjue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOdLaMTuK1RBTcxKVcoMqRldj2eyFrMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987184857149-498g87053v58th76sln5pe258rbobjue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987184857149-gcmjvm8h95uibrth2gtg5n5t3hosnmsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riverpodPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
